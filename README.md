@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prestonimpac
-- 👀 I’m interested in bash Oracle scripting
+- 👀 I’m interested in bash and Oracle scripting
 - 🌱 I’m currently learning Github, Git, Python
 - 💞️ I’m looking to collaborate on ... whatever
 - 📫 How to reach me ... I wouldnt recommend reaching me.
